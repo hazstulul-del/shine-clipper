@@ -1,0 +1,25 @@
+# Node
+node_modules/
+/dist
+
+# Env
+.env
+
+# Uploads
+uploads/
+
+# Logs
+logs/
+
+# Vite
+.node_modules
+
+# IDE
+.vscode/
+.DS_Store
+
+# Build
+build/
+
+# npm
+package-lock.json
